@@ -1,7 +1,7 @@
 # Change baseurl before deploy
-baseurl = "https://starter.stack.cai.im/"
+baseurl = "https://Shawney123.github.io/my-new-blog/"
 locale  = "en-us"
-title   = "Hugo Theme Stack Starter"
+title   = "blog"
 
 # Theme i18n support
 # See all available values at https://github.com/CaiJimmy/hugo-theme-stack/tree/master/i18n
